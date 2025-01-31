@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.front {
+    height: 644px;
+    width: 100%;
+    display: flex;
+    background-color: rgb(229, 233, 233);
+}
+.front img{
+    width: 255px;
+    height: 255px;
+    margin: 160px auto;
+}
